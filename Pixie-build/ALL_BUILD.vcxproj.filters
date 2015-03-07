@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Bekwnn2\Pixie-Particles\Pixie\CMakeLists.txt" />
+    <CustomBuild Include="CMakeFiles\41c83a40e007bee470b1d623b7e28d97\ALL_BUILD.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CMakeFiles\ALL_BUILD" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{041503A9-B9AB-4294-B4FD-E94DB8B8FEAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

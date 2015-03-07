@@ -1,0 +1,3 @@
+C:/Users/Bekwnn2/Pixie-Particles/Pixie-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Bekwnn2/Pixie-Particles/Pixie-build/src/CMakeFiles/PixieParticles.dir
+C:/Users/Bekwnn2/Pixie-Particles/Pixie-build/CMakeFiles/ZERO_CHECK.dir

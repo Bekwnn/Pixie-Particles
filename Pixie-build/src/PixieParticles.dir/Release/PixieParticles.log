@@ -1,0 +1,16 @@
+﻿Build started 06/03/2015 9:08:22 PM.
+     1>Project "C:\Users\Bekwnn2\Pixie-Particles\Pixie-build\src\PixieParticles.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\SFML-2.2-vs\include" /nologo /W3 /WX- /O2 /Ob2 /Oy- /D SFML_STATIC /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"PixieParticles.dir\Release\\" /Fd"PixieParticles.dir\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Bekwnn2\Pixie-Particles\Pixie\src\main.cpp"
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bekwnn2\Pixie-Particles\Pixie-build\src\Release\PixieParticles.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files\SFML-2.2-vs\lib" winmm.lib opengl32.lib gdi32.lib glew.lib freetype.lib jpeg.lib "sfml-system-s.lib" "sfml-graphics-s.lib" "sfml-window-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/Bekwnn2/Pixie-Particles/Pixie-build/src/Release/PixieParticles.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Bekwnn2/Pixie-Particles/Pixie-build/src/Release/PixieParticles.lib" /MACHINE:X86 /SAFESEH  /machine:X86 PixieParticles.dir\Release\Emitter.obj
+         PixieParticles.dir\Release\Particle.obj
+         PixieParticles.dir\Release\ParticleSystem.obj
+         PixieParticles.dir\Release\main.obj
+         PixieParticles.vcxproj -> C:\Users\Bekwnn2\Pixie-Particles\Pixie-build\src\Release\PixieParticles.exe
+     1>Done Building Project "C:\Users\Bekwnn2\Pixie-Particles\Pixie-build\src\PixieParticles.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.77
